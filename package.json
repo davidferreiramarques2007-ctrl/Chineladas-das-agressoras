@@ -1,0 +1,13 @@
+{
+  "name": "chinelos-na-mira",
+  "version": "2.1.0",
+  "description": "Chinelos na Mira — arena online de pontaria com salas em tempo real, placar e personalização.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
